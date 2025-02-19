@@ -24,6 +24,7 @@ Dosya İşlemleri (Verilerin kalıcı olarak saklanması için)
 🔹 Grafik arayüz (GUI) ile daha kullanışlı bir sistem geliştirmek
 
 📫 İletişim & Destek
+
 Hasan Kılıçkaya
 🔗 GitHub
 📧 Mail: hasankilickaya44@gmail.com
